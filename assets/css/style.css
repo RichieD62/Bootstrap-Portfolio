@@ -48,7 +48,19 @@ body{
 #linkedInImage{
     width: 80px;
     height: 80px;
-    margin-left: -25px;
+}
+
+#resumeImage{
+    width: 80px;
+    height: 80px;
+}
+
+#icons {
+    margin-left: -20px;
+}
+
+#instructions {
+    margin-left: 0px;
 }
 
 
