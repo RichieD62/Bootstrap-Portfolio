@@ -39,6 +39,14 @@ body{
     margin-top: 5px;
 }
 
+#friendFinderButton{
+    margin-top: 5px;
+}
+
+#eatDaBurgerButton{
+    margin-top: 5px;
+}
+
 #githubImage{
     width: 75px;
     height: 75px;
