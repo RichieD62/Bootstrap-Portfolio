@@ -72,7 +72,34 @@ body{
 
 #instructions {
     margin-left: 0px;
+    }
+
+#phone {
+    background-color: lightyellow;
+    border-radius: 25px;
+    padding: 10px;
+
 }
 
+#email {
+    font-size: 30px;
+    background-color: lightyellow;
+    border-radius: 25px;
+    padding: 15px;
 
+}
+
+#contactPic {
+    border-radius: 25px;
+    border: 2px solid black
+}
+
+#aboutMe{
+    color: black;
+}
+
+#indexImg {
+    border-radius: 25px;
+    border: 2px solid black
+}
 
